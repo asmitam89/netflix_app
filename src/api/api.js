@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const URL = "https://api.themoviedb.org/3";
-const API_KEY = "475b29fd356be3c7b704712e5e9df99c";
+const API_KEY = "ADD YOUR API_KEY";
 
 const endpoints = {
   originals: "/discover/tv",
